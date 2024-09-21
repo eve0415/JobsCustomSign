@@ -1,0 +1,14 @@
+name: JobsCustomSign
+version: 1.0-SNAPSHOT
+main: net.eve0415.jobsCustomSign.JobsCustomSign
+api-version: 1.20
+prefix: JCS
+authors:
+  - eve0415
+description: Custom Sign for Jobs (Reborn)
+depend:
+  - Jobs
+  - LuckPerms
+softdepend:
+  - Jobs
+  - LuckPerms
