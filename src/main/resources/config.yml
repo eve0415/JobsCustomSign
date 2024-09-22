@@ -8,5 +8,7 @@ signs:
   - ""
   - ""
 
-# The cooldown to join/leave a job in seconds
-cooldown: 60
+cooldown:
+  # The cooldown duration in seconds to change jobs
+  time: 60
+  error: "You must wait <TIME> seconds before changing a job"
