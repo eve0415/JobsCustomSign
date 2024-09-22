@@ -26,6 +26,7 @@ dependencies {
     compileOnly("org.spigotmc:spigot-api:1.20.1-R0.1-SNAPSHOT")
     compileOnly("com.github.Zrips:Jobs:v5.2.2.3")
     compileOnly("net.luckperms:api:5.4")
+    compileOnly("com.sk89q.worldguard:worldguard-bukkit:7.0")
 
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 }

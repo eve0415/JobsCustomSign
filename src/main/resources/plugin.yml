@@ -9,6 +9,8 @@ description: Custom Sign for Jobs (Reborn)
 depend:
   - Jobs
   - LuckPerms
+  - WorldGuard
 softdepend:
   - Jobs
   - LuckPerms
+  - WorldGuard

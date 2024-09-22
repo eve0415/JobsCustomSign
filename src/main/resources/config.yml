@@ -1,0 +1,12 @@
+# This is the configuration file for the plugin
+
+# The sign that will be used to join users to a job
+# The first line can be anything, the second line must be the job name
+signs:
+  - You will be
+  - <JOB_NAME>
+  - ""
+  - ""
+
+# The cooldown to join/leave a job in seconds
+cooldown: 60
