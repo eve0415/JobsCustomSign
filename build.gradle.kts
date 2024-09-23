@@ -27,8 +27,6 @@ dependencies {
     compileOnly("com.github.Zrips:Jobs:v5.2.2.3")
     compileOnly("net.luckperms:api:5.4")
     compileOnly("com.sk89q.worldguard:worldguard-bukkit:7.0")
-
-    implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 }
 
 kotlin {
